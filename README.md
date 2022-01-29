@@ -15,6 +15,19 @@ This dataset was used to study multi-period planning of level 3 charger location
 
 - [Zhang, A., J.E. Kang, C. Kwon (2017). Incorporating Demand Dynamics in Multi-Period Capacitated Fast-charging Location Planning for Electric Vehicles. *Transportation Research Part B: Methodological*, 103, 5–29.](https://doi.org/10.1016/j.trb.2017.04.016)
 
+If you use this dataset, please cite:
+```
+@article{zhang2017incorporating,
+  title={Incorporating demand dynamics in multi-period capacitated fast-charging location planning for electric vehicles},
+  author={Zhang, Anpeng and Kang, Jee Eun and Kwon, Changhyun},
+  journal={Transportation Research Part B: Methodological},
+  volume={103},
+  pages={5--29},
+  year={2017},
+  publisher={Elsevier}
+}
+```
+
 ### Data Format
 Two data files are provided as ```.csv``` files, and a QGIS project is also provided with multiple shapefiles.
 
